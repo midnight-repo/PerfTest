@@ -12,7 +12,7 @@
 
     pip3 install -r requirements.txt 
 
-4- Before running the test, please open and read the jupyter notebooks (don't forget to run the codes : click "Kernel" on the menu bar, and select "Restart & Run All") as they contain useful information about the test, tools, configuration tips, and analysis of the data sample.
+4- Before running the test, please open and read the jupyter notebooks (don't forget to run the codes if you don't see any table and pictures: click "Kernel" on the menu bar, and select "Restart & Run All") as they contain useful information about the test, tools, usage, configuration tips, and analysis of the data sample.
 
     jupyter notebook # /!\  Please make sure to run this command from the PerfTest directory /!\ 
 
@@ -24,3 +24,4 @@
 
     python3 run.py # /!\ Please make sure you run this command from the part2 directory /!\
 
+7- Open the "Test Report.ipynb" notebook and run all the cells (click "Kernel" on the menu bar, and select "Restart & Run All") to get a pretty report
