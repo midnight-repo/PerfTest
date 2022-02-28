@@ -59,7 +59,7 @@ def merge_results():
     images[0].save(
         'reports/Charts.pdf', "PDF", resolution=100.0, save_all=True, append_images=images[1:]
     )
-    print(style(f'Performance chart saved at {"reports/Charts.pdf"}', fg=colors.GREEN))
+    print(style(f'Performance charts saved at {"reports/Charts.pdf"}', fg=colors.GREEN))
     print(style('DONE.', fg=colors.CYAN))
 
 
