@@ -1,4 +1,5 @@
-# Deploy (Tested on Linux (kali,ubuntu))
+# Deployment
+Tested on Linux (kali 2022.1, ubuntu 20.04)
 1- Clone the repository
 
     git clone https://github.com/midnight-repo/PerfTest.git && cd PerfTest
