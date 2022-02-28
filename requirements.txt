@@ -1,0 +1,7 @@
+flask
+locust
+pandas
+matplotlib
+lxml
+jupyter
+typer

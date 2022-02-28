@@ -1,0 +1,8 @@
+Method,Name,Error,Occurrences
+POST,/echo,[Errno 24] Too many open files,280793
+GET,/pretty_echo,[Errno 24] Too many open files,154546
+GET,/echo,[Errno 24] Too many open files,155024
+GET,/,[Errno 24] Too many open files,158129
+POST,/pretty_echo,[Errno 104] Connection reset by peer,10422
+POST,/echo,[Errno 104] Connection reset by peer,10641
+POST,/pretty_echo,[Errno 24] Too many open files,280825
