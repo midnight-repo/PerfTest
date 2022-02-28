@@ -24,4 +24,4 @@
 
     python3 run.py # /!\ Please make sure you run this command from the part2 directory /!\
 
-7- Open the "Test Report.ipynb" notebook and run all the cells (click "Kernel" on the menu bar, and select "Restart & Run All") to get a pretty report
+7- Open the "Test Report.ipynb" notebook and run all the cells (click "Kernel" on the menu bar, and select "Restart & Run All") to get a pretty report !
