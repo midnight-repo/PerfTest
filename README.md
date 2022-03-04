@@ -1,3 +1,5 @@
+
+
 # Note
 You can find the template in the link below (Template N:40)
 https://freshdesignweb.com/css-login-form-templates/
@@ -32,3 +34,8 @@ Tested on Linux (kali 2022.1, ubuntu 20.04)
     python3 run.py # /!\ Please make sure you run this command from the part2 directory /!\
 
 7- Open the "Test Report.ipynb" notebook and run all the cells (click "Kernel" on the menu bar, and select "Restart & Run All") to get a pretty report !
+
+# DEMO
+
+https://user-images.githubusercontent.com/94768062/156805164-b161b477-57b0-439d-a9ea-9ebfc7e9fc1c.mp4
+
